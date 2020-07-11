@@ -1,2 +1,3 @@
 pytz
 boto3
+requests
