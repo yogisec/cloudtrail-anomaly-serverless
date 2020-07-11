@@ -50,7 +50,7 @@ class Splunk:
         print('-- Dumped Event Data: ' + dumped_event_data + '\n\n')
         print('-- Building Payload')
 
-        index = 'kbssrm'
+        index = '<SPLUNK_INDEX>'
         payload = {'index': index, 'sourcetype': sourcetype, 'event': dumped_event_data, 'time': time.time()}
         formated_payload = json.dumps(payload)
 
