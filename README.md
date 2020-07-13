@@ -34,7 +34,7 @@ Below is the structure of the Lambda functions.
 2. SNS message 1 for each account
 3. Discernment functions running on a per account basis.
 
-![](functional_view.png)
+![](lambda_flow.png)
 
 ## More indepth explaination
 
