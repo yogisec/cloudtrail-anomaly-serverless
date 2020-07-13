@@ -45,3 +45,8 @@ https://jellyparks.com/AWS/cloudtrail_anomaly_detection.html
 - https://www.youtube.com/watch?v=kWJoiZ9yMpg
 - https://github.com/Netflix-Skunkworks/cloudtrail-anomaly
 
+## Whats Next?
+
+- I need to finish out alerting for the other identity types
+- Account local functions vs centralized functions. I think this will help with some overall effciences. It does potentially make things a bit more complicated. Making sure they run everywhere, appropirate back billing, tamper protection, etc.
+
