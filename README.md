@@ -38,7 +38,7 @@ Below is the structure of the Lambda functions.
 
 ## More indepth explaination
 
-https://jellyparks.com/AWS/cloudtrail-anomaly-detection.html
+https://jellyparks.com/posts/cloudtrail-anomaly-detection/
 
 ## Original Inspiration
 
